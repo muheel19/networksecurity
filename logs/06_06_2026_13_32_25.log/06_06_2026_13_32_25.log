@@ -1,0 +1,14 @@
+[ 2026-06-06 13:32:31,239 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-06-06 13:32:31,251 ] 107 dagshub - INFO - Accessing as muheel19
+[ 2026-06-06 13:32:32,574 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/muheel19/networksecurity "HTTP/1.1 200 OK"
+[ 2026-06-06 13:32:34,599 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-06-06 13:32:34,602 ] 107 dagshub - INFO - Initialized MLflow to track repo "muheel19/networksecurity"
+[ 2026-06-06 13:32:34,603 ] 107 dagshub - INFO - Repository muheel19/networksecurity initialized!
+[ 2026-06-06 13:32:35,866 ] 309 watchfiles.main - INFO - 2 changes detected
+[ 2026-06-06 13:32:36,221 ] 309 watchfiles.main - INFO - 2 changes detected
+[ 2026-06-06 13:33:49,253 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-06 13:37:30,093 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-06 13:37:31,401 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-06 13:37:32,057 ] 309 watchfiles.main - INFO - 7 changes detected
+[ 2026-06-06 13:37:32,459 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-06 13:37:36,598 ] 309 watchfiles.main - INFO - 1 change detected
