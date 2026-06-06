@@ -1,0 +1,27 @@
+[ 2026-06-05 13:06:48,789 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-06-05 13:06:48,790 ] 107 dagshub - INFO - Accessing as muheel19
+[ 2026-06-05 13:06:49,933 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/muheel19/networksecurity "HTTP/1.1 200 OK"
+[ 2026-06-05 13:06:51,178 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-06-05 13:06:51,181 ] 107 dagshub - INFO - Initialized MLflow to track repo "muheel19/networksecurity"
+[ 2026-06-05 13:06:51,182 ] 107 dagshub - INFO - Repository muheel19/networksecurity initialized!
+[ 2026-06-05 13:06:52,514 ] 309 watchfiles.main - INFO - 2 changes detected
+[ 2026-06-05 13:06:52,880 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-05 13:06:53,789 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-05 13:07:52,349 ] 309 watchfiles.main - INFO - 4 changes detected
+[ 2026-06-05 13:07:52,705 ] 309 watchfiles.main - INFO - 10 changes detected
+[ 2026-06-05 13:07:53,057 ] 309 watchfiles.main - INFO - 14 changes detected
+[ 2026-06-05 13:07:53,416 ] 309 watchfiles.main - INFO - 2 changes detected
+[ 2026-06-05 13:07:54,273 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-05 13:15:52,156 ] 309 watchfiles.main - INFO - 4 changes detected
+[ 2026-06-05 13:15:52,517 ] 309 watchfiles.main - INFO - 2 changes detected
+[ 2026-06-05 13:18:19,942 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-06 11:55:04,760 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-06 11:55:06,647 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-06 11:55:07,538 ] 309 watchfiles.main - INFO - 5 changes detected
+[ 2026-06-06 11:55:08,247 ] 309 watchfiles.main - INFO - 2 changes detected
+[ 2026-06-06 11:55:08,663 ] 309 watchfiles.main - INFO - 2 changes detected
+[ 2026-06-06 11:55:21,930 ] 309 watchfiles.main - INFO - 2 changes detected
+[ 2026-06-06 11:55:22,293 ] 309 watchfiles.main - INFO - 5 changes detected
+[ 2026-06-06 11:55:22,644 ] 309 watchfiles.main - INFO - 2 changes detected
+[ 2026-06-06 11:55:23,003 ] 309 watchfiles.main - INFO - 1 change detected
+[ 2026-06-06 11:55:23,859 ] 309 watchfiles.main - INFO - 1 change detected
